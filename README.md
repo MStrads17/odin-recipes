@@ -1,0 +1,1 @@
+This project will demonstrate what I have learned about the basics of HTML coding by showcasing a recipe website. When completed, I will have a definite understanding of how to write and execute HTML.
